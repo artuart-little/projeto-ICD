@@ -50,18 +50,18 @@ Todo o processo foi executado em Python (Jupyter Notebook), utilizando as biblio
 
 | Nome da coluna       | Descrição                                                                 | Exemplo                     |
 ----------------------------------------------------------------------------------------------------------------------------------
-| Título do Livro      | Nome completo do livro, conforme aparece na página.                       | Alchemised [Edição brasileira] |
-| Autor                | Nome do autor (ou autores) do livro.                                      | SenLinYu                    |
-| Quantidade de Páginas| Número de páginas informado na edição.                                    | 900 páginas                 |
-| Tempo de Leitura     | Estimativa de tempo para ler o livro, calculada pelo Skoob.               | 1d 6h 0m                    |
-| Nota Média           | Média das notas dadas pelos usuários (de 0 a 5).                          | 4.5                         |
-| Leram                | Número de usuários que marcaram o livro como "li".                        | 9155                        |
-| Lendo                | Número de usuários que marcaram "estou lendo".                            | 4786                        |
-| Querem               | Número de usuários que marcaram "quero ler".                              | 46897                       |
-| Relendo              | Número de usuários que marcaram "relendo".                                | 43                          |
-| Abandonos            | Número de usuários que abandonaram a leitura.                             | 590                         |
-| Resenhas             | Número de resenhas escritas para o livro.                                 | 2364                        |
-| Favoritos            | Número de usuários que adicionaram o livro aos favoritos.                 | 1640                        |
-| Avaliaram            | Número de usuários que avaliaram o livro (deram nota).                    | 6826                        |
+| **Título do Livro**      | Nome completo do livro, conforme aparece na página.                       | Alchemised [Edição brasileira] |
+| **Autor**                | Nome do autor (ou autores) do livro.                                      | SenLinYu                    |
+| **Quantidade de Páginas**| Número de páginas informado na edição.                                    | 900 páginas                 |
+| **Tempo de Leitura**     | Estimativa de tempo para ler o livro, calculada pelo Skoob.               | 1d 6h 0m                    |
+| **Nota Média**           | Média das notas dadas pelos usuários (de 0 a 5).                          | 4.5                         |
+| **Leram**                | Número de usuários que marcaram o livro como "li".                        | 9155                        |
+| **Lendo**                | Número de usuários que marcaram "estou lendo".                            | 4786                        |
+| **Querem**               | Número de usuários que marcaram "quero ler".                              | 46897                       |
+| **Relendo**              | Número de usuários que marcaram "relendo".                                | 43                          |
+| **Abandonos**            | Número de usuários que abandonaram a leitura.                             | 590                         |
+| **Resenhas**             | Número de resenhas escritas para o livro.                                 | 2364                        |
+| **Favoritos**            | Número de usuários que adicionaram o livro aos favoritos.                 | 1640                        |
+| **Avaliaram**            | Número de usuários que avaliaram o livro.                                 | 6826                        |
 
 ##Link do Drive
