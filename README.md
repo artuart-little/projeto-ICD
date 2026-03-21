@@ -31,7 +31,7 @@ Adotamos uma estratégia multi-plataforma para capturar dados ricos e diversific
 ## Explicando o dataset
 O dataset reúne informações sobre livros cadastrados na plataforma Skoob, uma espécie de rede social brasileira para leitores. Cada linha representa um livro e as colunas representam título, autor, número de páginas, tempo estimado de leitura, nota média, as quantidades de usuários que marcaram o livro em diferentes status (leram, estão lendo, querem ler, estão relendo, abandonaram), há também contagens de resenhas, favoritos e avaliações. Esse conjunto pode ser usado para análises sobre popularidade, preferências de leitura, correlação entre número de páginas e nota, ou para entender quais livros estão em alta na comunidade.
 
-###Processo de coleta dos dados
+## Processo de coleta dos dados
 
 A coleta foi feita em duas etapas:
   1. Obtenção dos links dos livros
@@ -46,7 +46,7 @@ A coleta foi feita em duas etapas:
 
 Todo o processo foi executado em Python (Jupyter Notebook), utilizando as bibliotecas **requests, BeautifulSoup, pandas e json**.
 
-##Descrição das Colunas
+## Descrição das Colunas
 
 | Nome da coluna       | Descrição                                                                 | Exemplo                     |
 ----------------------------------------------------------------------------------------------------------------------------------
