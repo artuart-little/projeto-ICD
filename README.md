@@ -64,4 +64,5 @@ Todo o processo foi executado em Python (Jupyter Notebook), utilizando as biblio
 | **Favoritos** | Número de usuários que adicionaram o livro aos favoritos. | 1640 |
 | **Avaliaram** | Número de usuários que avaliaram o livro. | 6826 |
 
-##Link do Drive
+## Link do Drive :
+https://drive.google.com/file/d/1XiZRasl5x5e-ncPhUdUKzYSsUZqe9ZkB/view?usp=drive_link
